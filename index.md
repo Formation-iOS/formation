@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![Swift]({{ "/images/Swift.png" | absolute_url }})
+
 # Formation iOS : développement d’applications en langage Swift
 
 ## Contenu
