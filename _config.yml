@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Cette formation permet d'acquérir les compétences de base nécessaires au développement d’applications iOS en Swift.
 baseurl: "/formation" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: Claire Reynaud, Cédric Soubrié
 #twitter_username: jekyllrb
 #github_username:  Formation-iOS
 
